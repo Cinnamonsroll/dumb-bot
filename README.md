@@ -1,2 +1,1 @@
-# dumb bot
- 
+Create a config.json in the same dir as index.js then paste in a token as "token" and mongoose url as mongo and no emoji as <:badboi:788537874140233759>
